@@ -8,3 +8,4 @@ Videos
 *.db
 tags
 
+*/.DS_Store
